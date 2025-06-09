@@ -1,2 +1,3 @@
-# awdmdk-NeteaseCloudMusicDownload
+# NeteaseCloudMusicDownload
 一个简易的网易云音乐单曲下载器
+目前正考虑实现下载歌单功能
